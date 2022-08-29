@@ -13,7 +13,7 @@ https://biteb.cc/auth/register?code=v7wt
 const $ = new Env('机场签到');
 const jsname = '机场签到'
 const logDebug = 0
-
+export jcAccounts='host=biteb.cc; username=你的用户名; password=你的密码;'
 const notifyFlag = 1; //0为关闭通知，1为打开通知,默认为1
 let notifyStr = ''
 
